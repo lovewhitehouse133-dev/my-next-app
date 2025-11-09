@@ -1,0 +1,4 @@
+
+
+“What’s the difference between client-side and server-side rendering in Next.js16?”
+https://chatgpt.com/share/69105a56-36c0-8005-9dd2-378af2bf9861
